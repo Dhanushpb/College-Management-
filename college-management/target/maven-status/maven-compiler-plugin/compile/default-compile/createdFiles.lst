@@ -1,0 +1,5 @@
+com\careerpath\college\controllers\CollegeController.class
+com\careerpath\college\CollegeManagementApplication.class
+com\careerpath\college\entities\College.class
+com\careerpath\college\repositories\CollegeRepository.class
+com\careerpath\college\services\CollegeService.class
